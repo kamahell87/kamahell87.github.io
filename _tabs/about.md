@@ -11,7 +11,6 @@ I mean that in this website you can read about my homelab and selfhosted adventu
 about how I try to learn new things, setting up new services, without getting mad.\
 _**- Interesting... Who are you again?**_\
 I am an italian guy who moved to the UK to work. I am passionate about IT and my heart is powered by Linux.\
-Funny enough, I don't have an IT education. No CS degree here, just the good old curiosity.\
 _**- Cool! What are the main topics you're interested in?**_\
 Virtualization and containers mainly, with a sprinkle of automation.\
 _**- Sounds amazing! Let me take a look around**_\
