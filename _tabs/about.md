@@ -7,7 +7,7 @@ Hello stranger and welcome!\
 _**- Hi! Thank you**_\
 My name is Marco and this is my personal _madhouse_.\
 _**- What do you mean?**_\
-I mean that in this website you can read about my homelab and selfhosted adventures. Long story short, you can read
+I mean that in this website you can read about my homelab and self-hosted adventures. Long story short, you can read
 about how I try to learn new things, setting up new services, without getting mad.\
 _**- Interesting... Who are you again?**_\
 I am an italian guy who moved to the UK to work. I am passionate about IT and my heart is powered by Linux.\
