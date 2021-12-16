@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lychee, not the fruit"
-date: 2021-12-16 10:00:00
+date: 2021-12-16 13:00:00
 categories: homelab self-hosted
 tags: lychee homelab self-hosted docker photo-management-system
 ---
