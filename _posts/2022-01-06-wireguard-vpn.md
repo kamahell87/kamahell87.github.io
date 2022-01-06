@@ -61,4 +61,4 @@ Here you should find a **QR code** you can use with the WireGuard app on your ph
 get the configuration automatically.\
 Now you just need to go to your router setting, forward port `51820/udp` of WireGuard and you are good to go.\
 _It was easy, wasn't it?_\
-Of course, there is a lot more than this. Just remember: _documentation is your friend_.
+Of course, there is a lot more than this. Just remember: _documentation is your friend_!
