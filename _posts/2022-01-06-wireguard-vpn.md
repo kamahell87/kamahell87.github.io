@@ -6,7 +6,7 @@ categories: homelab self-hosted
 tags: wireguard homelab self-hosted docker vpn
 ---
 
-Rather than expose some services in your homelab to the _wild_ public internet, wouldn't it be better if you can access them safely anywhere you are? Maybe from your phone?
+Rather than expose some services in your homelab to the _wild_ public internet, wouldn't it be better if you can access them safely from anywhere you are? Maybe from your phone?
 Well, I like the idea, and I set up a **VPN** to accomplish this mission.\
 If you don't know what a VPN is, take a look at [this](https://en.wikipedia.org/wiki/Virtual_private_network).\
 I am not going to lie, networking is not my strongest point, but [WireGuard](https://www.wireguard.com/) is so easy to set up that anyone can do it!\
@@ -49,7 +49,7 @@ services:
     restart: unless-stopped
 ```
 All environment variables are pretty much self-explanatory, which it helps in the setup process. Edit the variables as you like
-and spin this container up!\
+and spin this container up!
 ```bash
 sudo docker-compose up -d
 ```
