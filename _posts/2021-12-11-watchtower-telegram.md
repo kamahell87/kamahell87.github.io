@@ -30,6 +30,7 @@ nano docker-compose.yml
 `docker-compose.yml`
 
 ```yaml
+---
 version: '3.3'
 
 services:
