@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Documentation, Documentation, Documentation!"
-date: 2022-03-18 10:00:00
+date: 2022-03-26 10:00:00
 categories: homelab self-hosted
 tags: bookstack homelab self-hosted docker documentation
 ---
