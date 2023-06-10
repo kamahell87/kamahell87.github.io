@@ -2,8 +2,8 @@
 layout: post
 title: "Embracing the Chaotic Beauty of Self-Hosting: A Love Story"
 date: 2023-06-05 19:00:00
-categories: blog stories
-tags: homelab blog
+categories: blog micro-novels
+tags: stories AI-generated self-hosted
 ---
 
 Once upon a time, in a land far, far away, there lived a curious internet adventurer named A1ic3. A1ic3 loved exploring the vast digital wilderness, but she was tired of relying on third-party platforms to host her website. She yearned for independence, control, and a dash of chaos. Little did she know that her quest for self-hosting would lead her down a path filled with hilarious mishaps and unexpected moments of beauty.
